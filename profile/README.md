@@ -58,7 +58,7 @@ We will develop the project with the Institución Educativa Distrital La Magdale
 
 ### Mobile
 - [Camilo J. Sinning Lopez](https://github.com/CamiloSinningUN)
-- Breynner S. Hurtado Acuña
+- [Breynner S. Hurtado Acuña](https://github.com/breynner1)
 
 ### Web
 - [Leonardo D. Lizcano Pinto](https://github.com/LeoLizc)
