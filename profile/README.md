@@ -42,7 +42,7 @@ The specific objectives are the following:
 - Implement the software components of an  inclusive English learning mobile application
 - Integrate teachers and students in the creation of authentic content for the mobile application and new versions of the original application 
 - Evaluate the impact of the developed mobile applications
-- 
+
 ## Impact
 We will develop the project with the Institución Educativa Distrital La Magdalena (INSEDMAG) in Barranquilla, Colombia. The school has a history of helping students with disabilities, in specific students with visual disabilities. This previous experience would facilitate the implementation of our project, as the existing managing staff has already implemented some educational tools. The school serves about 1600 students. From those, we will work with people with visual disabilities, which amounts to about 20 students. We will also work with students without disabilities who will help design and implement new mobile applications based on the original application designed by students at Universidad del Norte. The INSEDMAG serves a population from different economic backgrounds from a balanced distribution of male and female students. The age group of students with disabilities ranges between 6 and 16, and the students who will help develop new applications are from high school, going between 13 and 16 years old. 
 
